@@ -3,7 +3,8 @@
   "version": "dev",
   "description": "Simple currency conversion and monetary functions",
   "require": {
-
+    "league/container": "1.3.*",
+    "doctrine/cache": "1.4.*"
   },
   "autoload": {
     "psr-4": {

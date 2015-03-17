@@ -6,5 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'League\\Container\\' => array($vendorDir . '/league/container/src'),
     'Billingo\\Money' => array($baseDir . '/src'),
 );
