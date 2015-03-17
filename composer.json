@@ -1,0 +1,13 @@
+{
+  "name": "Billingo/Money",
+  "version": "dev",
+  "description": "Simple currency conversion and monetary functions",
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Billingo\\Money": "src/"
+    }
+  }
+}
